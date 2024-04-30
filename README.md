@@ -33,7 +33,7 @@ This project involves the creation of a comprehensive system that employs the BC
 
 ### Dataset Overview
 
-<img src="(https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/affb80b8-772f-4f87-8f7f-02d1670911f1)" width="807" alt="dataset">
+<img src="https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/affb80b8-772f-4f87-8f7f-02d1670911f1" width="807" alt="dataset">
 
 The BC-InceptionV3 model is trained on high-quality mammographic images that provide a diverse basis for learning distinguishing features between benign and malignant tumors.
 
@@ -61,7 +61,7 @@ The TensorFlow Lite model is integrated into the Pink Guardian mobile app, provi
 
 Scan the QR code below to download the **Pink Guardian** app directly to your device:
 
-<img src="(https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/9f40d777-2d6f-4abe-abf7-b711e495be55)" alt="QR Code for Pink Guardian App" width="200"/>
+<img src="https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/9f40d777-2d6f-4abe-abf7-b711e495be55" alt="QR Code for Pink Guardian App" width="200"/>
 
 
 ## Results
