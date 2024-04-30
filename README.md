@@ -33,8 +33,7 @@ This project involves the creation of a comprehensive system that employs the BC
 
 ### Dataset Overview
 
-
-<img src="(https://private-user-images.githubusercontent.com/26533517/326626822-5d697a54-a483-4628-9a5e-29627029e4f9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0MzcyMDcsIm5iZiI6MTcxNDQzNjkwNywicGF0aCI6Ii8yNjUzMzUxNy8zMjY2MjY4MjItNWQ2OTdhNTQtYTQ4My00NjI4LTlhNWUtMjk2MjcwMjllNGY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDMwVDAwMjgyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0OWEyYzgyMTIzZjZmZjNiOGUwNTVmMTkzNWU2MzQyMTg2OTRhNTFkNjUyNjNjZWZhYmI1ZjY5YTEzMjEzM2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hZ81Gh7twal57EtN17jELyF3YwcQjDTZamaxGzu8Mzg)" width="807" alt="dataset">
+<img src="(https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/affb80b8-772f-4f87-8f7f-02d1670911f1)" width="807" alt="dataset">
 
 The BC-InceptionV3 model is trained on high-quality mammographic images that provide a diverse basis for learning distinguishing features between benign and malignant tumors.
 
@@ -49,6 +48,11 @@ Post-training, the model is converted to TensorFlow Lite to optimize performance
 
 ## App Details
 
+### Direct Downloads
+
+- **APK Download**: For users who prefer manual installation, the APK is available for direct download. Please ensure that you enable installation from unknown sources on your device if you're installing an APK directly. [Download APK](https://drive.google.com/file/d/1wcSVM3q4HLUdGzgtLO_s6_3NqCvXbD7K/view?usp=sharing)
+
+
 ### Integration with Mobile App
 
 The TensorFlow Lite model is integrated into the Pink Guardian mobile app, providing users with real-time analysis of mammogram images. This integration allows for immediate preliminary diagnostics to be made accessible on user's devices.
@@ -57,8 +61,7 @@ The TensorFlow Lite model is integrated into the Pink Guardian mobile app, provi
 
 Scan the QR code below to download the **Pink Guardian** app directly to your device:
 
-
-<img src="https://private-user-images.githubusercontent.com/26533517/326626110-fb8ed096-e201-4808-b57f-a4fac201e2c9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0MzY4NjksIm5iZiI6MTcxNDQzNjU2OSwicGF0aCI6Ii8yNjUzMzUxNy8zMjY2MjYxMTAtZmI4ZWQwOTYtZTIwMS00ODA4LWI1N2YtYTRmYWMyMDFlMmM5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDMwVDAwMjI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwMTgwMzM0NzEwZDdmMTFlMTIwYWNkODkxZWQ0YzIyMGQ0YmMzMjEwZWM0OTJhY2JmN2ExMTkxZjRiYjg3NzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NlUV-e3o6lgR7renFWr5uiy6wWiAQPN_CnqY0cMxgBI" alt="QR Code for Pink Guardian App" width="200"/>
+<img src="(https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/9f40d777-2d6f-4abe-abf7-b711e495be55)" alt="QR Code for Pink Guardian App" width="200"/>
 
 
 ## Results
