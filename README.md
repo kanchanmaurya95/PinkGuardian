@@ -50,8 +50,9 @@ The TensorFlow Lite model is integrated into the Pink Guardian mobile app, provi
 ### Download the App
 
 Scan the QR code below to download the **Pink Guardian** app directly to your device:
+![Pink Guardian qr](https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/fb8ed096-e201-4808-b57f-a4fac201e2c9)
 
-![Pink Guardian qr](https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/280e63f1-9192-4fb0-aacd-21b2d208134a)
+<img src=" " alt="QR Code for Pink Guardian App" width="200"/>
 
 
 ## Results
