@@ -2,7 +2,7 @@
 
 
 
-Welcome to the **Pink Guardian** GitHub repository, where we integrate cutting-edge machine learning technology into mobile health applications to improve early breast cancer detection. This project showcases the development of the BC-InceptionV3 model, its training on Kaggle, conversion to TensorFlow Lite, and deployment in the Pink Guardian app.
+Welcome to the **Pink Guardian** GitHub repository, where we integrate cutting-edge machine learning technology into mobile health applications to improve early breast cancer (bc) detection. This project showcases the development of the BC-InceptionV3 model, its training on Kaggle, conversion to TensorFlow Lite, and deployment in the Pink Guardian app.
 
 ## Table of Contents
 
@@ -32,6 +32,11 @@ This project involves the creation of a comprehensive system that employs the BC
 ### Dataset Overview
 
 The BC-InceptionV3 model is trained on high-quality mammographic images that provide a diverse basis for learning distinguishing features between benign and malignant tumors.
+<img width="807" alt="dataset" src="https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/5d697a54-a483-4628-9a5e-29627029e4f9">
+
+
+<img src="https://private-user-images.githubusercontent.com/26533517/326626110-fb8ed096-e201-4808-b57f-a4fac201e2c9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0MzY4NjksIm5iZiI6MTcxNDQzNjU2OSwicGF0aCI6Ii8yNjUzMzUxNy8zMjY2MjYxMTAtZmI4ZWQwOTYtZTIwMS00ODA4LWI1N2YtYTRmYWMyMDFlMmM5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDMwVDAwMjI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwMTgwMzM0NzEwZDdmMTFlMTIwYWNkODkxZWQ0YzIyMGQ0YmMzMjEwZWM0OTJhY2JmN2ExMTkxZjRiYjg3NzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NlUV-e3o6lgR7renFWr5uiy6wWiAQPN_CnqY0cMxgBI" alt="QR Code for Pink Guardian App" width="200"/>
+
 
 ### Training on Kaggle
 
@@ -58,6 +63,20 @@ Scan the QR code below to download the **Pink Guardian** app directly to your de
 ## Results
 
 The application of the BC-InceptionV3 model within the Pink Guardian app demonstrates high accuracy in detecting breast cancer signs from mammograms, providing a reliable tool for early detection.
+Our comprehensive evaluation of various models reveals that the BC Inception V3 significantly outperforms its counterparts with a remarkable accuracy of 99.49% during training and 78.70% in validation. Here are the detailed results:
+
+| Model              | Loss    | Accuracy (%) | Validation Loss | Validation Accuracy (%) |
+|--------------------|---------|--------------|-----------------|------------------------|
+| ResNet50           | 0.6895  | 55.18        | 0.6986          | 51.79                  |
+| ResNet101          | 0.6839  | 56.53        | 0.7019          | 51.79                  |
+| EfficientNet B0    | 0.6887  | 54.76        | 0.6943          | 51.79                  |
+| Xception           | 0.4547  | 77.17        | 0.7171          | 65.48                  |
+| Inception          | 0.5508  | 70.85        | 0.5847          | 67.26                  |
+| Fine-tuned Xception| 0.5813  | 69.50        | 0.6602          | 62.50                  |
+| EfficientNet B7    | 0.6887  | 54.76        | 0.6942          | 51.79                  |
+| Nesnet Mobile      | 0.5134  | 73.46        | 0.6881          | 61.31                  |
+| Custom Xception    | 0.5705  | 71.78        | 0.6396          | 64.88                  |
+| BC Inception V3    | 0.1454  | 99.49        | 0.6645          | 78.70                  |
 
 ## Technical Information
 
