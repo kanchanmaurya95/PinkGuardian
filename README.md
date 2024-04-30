@@ -29,15 +29,12 @@ This project involves the creation of a comprehensive system that employs the BC
 
 ## Model Development
 
+### Dataset Overview
+
 
 <img src="(https://private-user-images.githubusercontent.com/26533517/326626822-5d697a54-a483-4628-9a5e-29627029e4f9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0MzcyMDcsIm5iZiI6MTcxNDQzNjkwNywicGF0aCI6Ii8yNjUzMzUxNy8zMjY2MjY4MjItNWQ2OTdhNTQtYTQ4My00NjI4LTlhNWUtMjk2MjcwMjllNGY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDMwVDAwMjgyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0OWEyYzgyMTIzZjZmZjNiOGUwNTVmMTkzNWU2MzQyMTg2OTRhNTFkNjUyNjNjZWZhYmI1ZjY5YTEzMjEzM2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hZ81Gh7twal57EtN17jELyF3YwcQjDTZamaxGzu8Mzg)" width="807" alt="dataset">
 
-### Dataset Overview
-
 The BC-InceptionV3 model is trained on high-quality mammographic images that provide a diverse basis for learning distinguishing features between benign and malignant tumors.
-<img width="807" alt="dataset" src="https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/5d697a54-a483-4628-9a5e-29627029e4f9">
-
-
 
 
 ### Training on Kaggle
