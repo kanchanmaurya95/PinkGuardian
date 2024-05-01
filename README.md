@@ -50,7 +50,7 @@ Post-training, the model is converted to TensorFlow Lite to optimize performance
 
 ### Direct Downloads
 
-- **APK Download**: For users who prefer manual installation, the APK is available for direct download. Please ensure that you enable installation from unknown sources on your device if you're installing an APK directly. [Download APK](https://drive.google.com/file/d/1wcSVM3q4HLUdGzgtLO_s6_3NqCvXbD7K/view?usp=sharing)
+- **APK Download**: For users who prefer manual installation, the APK is available for direct download. Please ensure that you enable installation from unknown sources on your device if you're installing an APK directly. [Download APK](https://drive.google.com/file/d/1ik9xN70ZjpgtbogmLYyijUICql9mWMmq/view?usp=sharing)
 
 
 ### Integration with Mobile App
@@ -61,7 +61,8 @@ The TensorFlow Lite model is integrated into the Pink Guardian mobile app, provi
 
 Scan the QR code below to download the **Pink Guardian** app directly to your device:
 
-<img src="https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/9f40d777-2d6f-4abe-abf7-b711e495be55" alt="QR Code for Pink Guardian App" width="200"/>
+
+<img src="https://github.com/kanchanmaurya95/PinkGuardian/assets/26533517/b9e28e42-c313-4173-a751-e9ad94f87b1b" alt="QR Code for Pink Guardian App" width="200"/>
 
 
 ## Results
